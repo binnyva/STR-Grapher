@@ -1,0 +1,33 @@
+body {
+	media: "screen";
+	margin: 0;
+	margin-bottom: 25px;
+	padding: 0;
+	background-color: #fff;
+	font-family: "Lucida Grande", "Bitstream Vera Sans", "Verdana";
+	font-size: 14px;
+	color: #222;
+}
+#graph {
+	width:800px;
+	height:400px;
+}
+#pager {
+	width:800px;
+}
+#prev, #today, #next {
+	float:left;
+	width:33%;
+}
+#prev {
+	text-align:left;
+}
+#today {
+	text-align:center;
+}
+#next {
+	text-align:right;
+}
+br {
+	clear:both;
+} 
