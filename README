@@ -1,1 +1,17 @@
- 
+STR Grapher
+
+Retrives the number of votes from a source, saves it to a text file, shows the data as graphs.
+
+grapher.php : Will be executed using cron. On an hourly or minutely basis.
+info.txt : Where the hourly data is stored
+minute.txt : Where the minutely data is stored.
+
+You will need my 'iframe' PHP library to actually run this scirpt - http://www.bin-co.com/php/scripts/iframe/
+
+This is not the best way to do it - but the most easiest way to do it. I created the entire thing in around one and a half hours.
+
+Finally, if you are a geek - and want to help MAD out on the tech side, contact me. I'm always on the lookout for people like that.
+
+Binny V A
+http://binnyva.com/
+binnyva, Gmail
